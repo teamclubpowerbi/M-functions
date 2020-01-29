@@ -30,7 +30,7 @@ let
 // Year calculation
     resAnnee = vAnneeFin - (vAnneeDeb + increment3),
 
-	return = "Diffence : " & Text.From(resAnnee) & " year(s) " & Text.From(resMois) & " month(s) " & Text.From(resJour) & " day(s)"
+	return = "Difference : " & Text.From(resAnnee) & " year(s) " & Text.From(resMois) & " month(s) " & Text.From(resJour) & " day(s)"
 in
     return
 in
